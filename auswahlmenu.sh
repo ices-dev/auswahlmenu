@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Bastelquastel Menu Numero EX
+# Auswahlmenu in Bash
 # Author  :  Holger Wessel
-# Datum   :  24.08.2018
+# Datum   :  28.08.2018
 
 # Variablen
 MLI="[menu1]  menu2   menu3 "                                    # Menudisplay LINKS
