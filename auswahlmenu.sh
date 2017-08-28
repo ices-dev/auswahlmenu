@@ -10,7 +10,7 @@ MMI=" menu1  [menu2]  menu3 "                                    # Menudisplay M
 MRE=" menu1   menu2  [menu3]"                                    # Menudisplay RECHTS
 
 POS=1                                                            # Cursor Links=1; Mitte=2; Rechts=3 (DEFAULT=1)
-EING="huhu"                                                      # Eingabe
+EING="0"                                                      # Eingabe
 
 # Code
 echo "* AUSWAHLMENU in BASH *"
